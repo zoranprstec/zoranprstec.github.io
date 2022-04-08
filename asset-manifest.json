@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce95b9e3.css",
-    "main.js": "/static/js/main.6bb5f543.js",
-    "static/media/klet.png": "/static/media/klet.9d352c058215f79e1776.png",
-    "static/media/luxemburg.png": "/static/media/luxemburg.f5de316cfa5e43d34d59.png",
-    "static/media/saar.png": "/static/media/saar.0da1e1f644a99e70bc9b.png",
+    "main.css": "/static/css/main.edc58e7e.css",
+    "main.js": "/static/js/main.62531db9.js",
     "index.html": "/index.html",
-    "main.ce95b9e3.css.map": "/static/css/main.ce95b9e3.css.map",
-    "main.6bb5f543.js.map": "/static/js/main.6bb5f543.js.map"
+    "main.edc58e7e.css.map": "/static/css/main.edc58e7e.css.map",
+    "main.62531db9.js.map": "/static/js/main.62531db9.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce95b9e3.css",
-    "static/js/main.6bb5f543.js"
+    "static/css/main.edc58e7e.css",
+    "static/js/main.62531db9.js"
   ]
 }
