@@ -1,3 +1,3 @@
-# zoranprstec.github.io
+# Published project
 
-aham
+Trivia quiz app made with opentdb.com API.
